@@ -20,8 +20,8 @@ class ClientGUI():
 
         # creating the client socket
         
-
     def send_message(self):
         ...
 
-
+    def recieve_message(self):
+        ...
